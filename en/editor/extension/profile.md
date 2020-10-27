@@ -29,7 +29,7 @@ local -> default
 
 ## Register Configuration
 
-```json5
+```jaon
 {
     "name": "hello-world",
     "contributions": {
